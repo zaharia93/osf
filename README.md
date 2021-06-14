@@ -1,1 +1,1 @@
-# osf
+# osf-academy-backend-starter-kit
